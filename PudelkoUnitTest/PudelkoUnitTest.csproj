@@ -56,10 +56,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PudelkoConsoleApp\PudelkoConsoleApp.csproj">
-      <Project>{62fd5247-46b8-46d3-b173-c194aa5901ec}</Project>
-      <Name>PudelkoConsoleApp</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PudelkoLibrary\PudelkoLibrary.csproj">
       <Project>{69f158b2-ffee-4d30-9d8b-8ebcb65d3be3}</Project>
       <Name>PudelkoLibrary</Name>
